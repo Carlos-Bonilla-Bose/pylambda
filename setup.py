@@ -9,7 +9,7 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'pylambda'
+NAME = 'bose-dp-pylambda'
 DESCRIPTION = 'Ramda inspired tools for functional python'
 URL = 'https://github.com/lostineverland/pylambda'
 EMAIL = '@lostineverland'
